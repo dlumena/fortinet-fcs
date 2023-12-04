@@ -126,7 +126,7 @@ Fortigate Interface settings:
 - Manually test an automation stitch
 ```
 > diagnose automation test
-> diaggnose automation test HAFailOver
+> diagnose automation test HAFailOver
 ```
 
 ### Automation Stitches Debug
